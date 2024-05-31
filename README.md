@@ -16,3 +16,18 @@ EgoSurgery-Phase is the first real open surgery video dataset for surgical phase
 <p align="center">
   <img width="80%" src="./assets/egosurgery-phase/phase_examples.png" alt>
 </p>
+
+
+## Reference
+If you are interested in our work and want to cite it, please acknowledge the following paper:
+
+```
+@misc{Fujii2024EgoSurgeryPhase,
+      title={EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos}, 
+      author={Ryo Fujii and Masashi Hatano and Hideo Saito and Hiroki Kajita},
+      year={2024},
+      eprint={2405.19644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
