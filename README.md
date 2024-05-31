@@ -11,7 +11,7 @@
 We introduce EgoSurgery, an egocentric surgical video dataset and benchmark. Our goal is to provide training and benchmarking data for research in egocentric surgical video understanding.
 
 ## 📚 Dataset
-### EgoSurgery-Phase
+### EgoSurgery-Phase (MICCAI 2024) [[ArXiv]](https://arxiv.org/abs/2405.19644)
 EgoSurgery-Phase is the first real open surgery video dataset for surgical phase recognition.
 <p align="center">
   <img width="80%" src="./assets/egosurgery-phase/phase_examples.png" alt>
@@ -20,7 +20,7 @@ EgoSurgery-Phase is the first real open surgery video dataset for surgical phase
 
 ## Reference
 If you are interested in our work and want to cite it, please acknowledge the following paper:
-
+### EgoSurgery-Phase 
 ```
 @misc{Fujii2024EgoSurgeryPhase,
       title={EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos}, 
