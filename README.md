@@ -17,6 +17,12 @@ EgoSurgery-Phase is the first real open surgery video dataset for surgical phase
   <img width="80%" src="./assets/egosurgery-phase/phase_examples.png" alt>
 </p>
 
+### EgoSurgery-Tool [[ArXiv]](https://arxiv.org/abs/2406.03095)
+EgoSurgery-Tool provides surgical tool and hand bounding box annotations.
+<p align="center">
+  <img width="80%" src="./assets/egosurgery-tool/tool_examples.png" alt>
+</p>
+
 
 ## Reference
 If you are interested in our work and want to cite it, please acknowledge the following paper:
@@ -27,6 +33,15 @@ If you are interested in our work and want to cite it, please acknowledge the fo
       author={Ryo Fujii and Masashi Hatano and Hideo Saito and Hiroki Kajita},
       year={2024},
       eprint={2405.19644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@misc{Fujii2024EgoSurgeryTool,
+      title={EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos}, 
+      author={Ryo Fujii and Hideo Saito and Hiroyuki Kajita},
+      year={2024},
+      eprint={2406.03095},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
