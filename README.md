@@ -27,19 +27,24 @@ Please kindly fill out the [google form](https://forms.gle/T7Kdqozz9C2kFBZs5) if
 If you are interested in our work and want to cite it, please acknowledge the following paper:
 ### EgoSurgery-Phase 
 ```
-@InProceedings{Fujii2024EgoSurgeryPhase,
-      title={EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos}, 
-      author={Ryo Fujii and Masashi Hatano and Hideo Saito and Hiroki Kajita},
-      year={2024},
-      booktitle = {MICCAI},
+@InProceedings{fujii2024egosurgeryphase,
+  title        = {EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos},
+  author       = {Ryo Fujii and Masashi Hatano and Hideo Saito and Hiroki Kajita},
+  year         = {2024},
+  booktitle    = {MICCAI},
 }
 
-@misc{Fujii2024EgoSurgeryTool,
-      title={EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos}, 
-      author={Ryo Fujii and Hideo Saito and Hiroyuki Kajita},
-      year={2024},
-      eprint={2406.03095},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{fujii2024egosurgerytool,
+  title        = {EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos},
+  author       = {Fujii, Ryo and Saito, Hideo and Kajita, Hiroki},
+  journal      = {arXiv preprint arXiv:2406.03095},
+  year         = {2024},
+}
+
+@article{fujii2022surgicaltool,
+  title        = {Surgical Tool Detection in Open Surgery Videos},
+  author       = {Fujii, Ryo and Hachiuma, Ryo and Kajita, Hiroki and Saito, Hideo},
+  journal      = {Applied Sciences},
+  year         = {2022},
 }
 ```
