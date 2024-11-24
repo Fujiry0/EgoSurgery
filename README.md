@@ -1,7 +1,6 @@
 # <p align="center">EgoSurgery: A Dataset for Surgical Video Understanding from Egocentric Open Surgery Videos</p>
 
 ## News and Announcements
-* [2024-09] EgoSurgery-Phase and EgoSurgery-Tool are now available. Thank you for your patience.
 * [2024-05] Our paper EgoSurgery-Phase is accepted to MICCAI 2024! (early acceptance within the top 11%)
 
 ## 💡 Overview
