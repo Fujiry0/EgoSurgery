@@ -21,11 +21,10 @@ EgoSurgery-Tool provides surgical tool and hand bounding box annotations.
 </p>
 
 ## Download
-Please kindly fill out the [google form](https://forms.gle/T7Kdqozz9C2kFBZs5) if you wish to gain access to the dataset. We will send you a download link shortly after. If you do not receive a response, it may have been missed. Please feel free to send a reminder email.
+Additional anonymization is required and is currently being reviewed by a doctor. Once the process is complete, the dataset will be provided via Box. Please fill out the [google form](https://forms.gle/T7Kdqozz9C2kFBZs5) and wait for further instructions. Thank you for your patience.
 
 ## Reference
 If you are interested in our work and want to cite it, please acknowledge the following paper:
-### EgoSurgery-Phase 
 ```
 @InProceedings{fujii2024egosurgeryphase,
   title        = {EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos},
