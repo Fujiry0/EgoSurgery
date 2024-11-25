@@ -20,7 +20,13 @@ EgoSurgery-Tool provides surgical tool and hand bounding box annotations.
 </p>
 
 ## Download
-Additional anonymization is required and is currently being reviewed by a doctor. Once the process is complete, the dataset will be provided via Box. Please fill out the [google form](https://forms.gle/T7Kdqozz9C2kFBZs5) and wait for further instructions. Thank you for your patience.
+Please kindly fill out the [google form](https://forms.gle/T7Kdqozz9C2kFBZs5) if you wish to gain access to the dataset. We will send you a download link. 
+
+## License
+EgoSurgery dataset is is publicly released under the Creative Commons license [CC BY-NC-SA 4.0 LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+## Commitment to Protecting Personal Information in Dataset Usage
+Users of the dataset must agree that they will not, and will not attempt to, use the dataset or any materials or works derived from it to determine or infer personal information about any individual (e.g., identifying individuals depicted in the dataset).
 
 ## Reference
 If you are interested in our work and want to cite it, please acknowledge the following paper:
